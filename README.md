@@ -40,7 +40,7 @@ This project is a real-time face mask detection web application designed to enha
 
 ## How to Run
 1. Clone the Repository:  
-   `git clone https://github.com/your-username/IBMproject.git`
+   `git clone https://github.com/HiteshM30/Face-Mask-Detection-App.git`
 2. Install Dependencies:  
    `pip install -r requirements.txt`
 3. Run the Application:  
