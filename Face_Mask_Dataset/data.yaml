@@ -1,0 +1,6 @@
+names:
+- mask
+- no_mask
+nc: 2
+train: C:\Users\hites\Downloads\IBM Intern\Face_Mask_Dataset\images\train
+val: C:\Users\hites\Downloads\IBM Intern\Face_Mask_Dataset\images\val

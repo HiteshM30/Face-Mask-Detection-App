@@ -1,0 +1,11 @@
+
+#run this in cmd or in powershell with virtual environment installed and activated 
+flask
+opencv-python
+mediapipe
+ultralytics
+numpy
+pandas
+matplotlib
+python-dotenv
+
