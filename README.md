@@ -19,6 +19,7 @@ This project is a real-time face mask detection web application designed to enha
 - Dashboard: Provides a live feed view and access to logged violation data.
 
 ## Project Structure
+```
 ├── face_mask_dataset_dashboard
 ├── runs
 ├── templates
@@ -36,7 +37,7 @@ This project is a real-time face mask detection web application designed to enha
 ├── tempCodeRunnerFile.py
 ├── violations.log
 └── yolo8n.pt
-
+```
 
 ## How to Run
 1. Clone the Repository:  
