@@ -68,6 +68,3 @@ We welcome contributions to improve this project! Please follow these steps:
 - Fork the repository and create your branch.
 - Submit pull requests for review. For major changes, please open an issue first to discuss the proposed changes.
 - Ensure your code adheres to the project's coding standards and includes appropriate documentation.
-
-# Contact
-For any questions or support, feel free to open an issue or contact the project maintainers.
